@@ -24,6 +24,8 @@ BT remote control is an application that sends the characters in Bluetooth SPP (
 <img src="doc/5.png" width="200px">
 <img src="doc/6.png" width="200px">
 <img src="doc/7.png" width="200px">
+</p>
+<p>
 <img src="doc/2.png" width="300px">
 <img src="doc/8.png" width="300px">
 </p>
@@ -31,7 +33,8 @@ BT remote control is an application that sends the characters in Bluetooth SPP (
 ## BT Remote (SPP) for Bluetooth
 
 ```
-BT remote control is an application that sends the characters in Bluetooth SPP (Serial Port Profile)
+BT remote control is an application
+that sends the characters in Bluetooth SPP (Serial Port Profile)
 
 [ Usage ]
 * Can send the character is set to pairing the equipment by Bluetooth SPP (Serial Port Profile)
