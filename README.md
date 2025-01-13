@@ -11,7 +11,7 @@ BT remote control is an application that sends the characters in Bluetooth SPP (
 <img src="doc/google-play-badge.png" width="200px">
 </a>
 
-<a href="https://github.com/jojoagogogo/btr/releases/latest/download/btremote.apk">
+<a href="https://github.com/jojoagogogo/btremote/releases/latest/download/btremote.apk">
 <img src="doc/download.png" width="200px">
 </a>
 
